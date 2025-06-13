@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+*.ckpt
+*.log
+.env
+venv/
+data/
+outputs/
